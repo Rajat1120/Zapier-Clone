@@ -1,0 +1,6 @@
+[submodule "zapier-frontend"]
+	path = zapier-frontend
+	url = https://github.com/Rajat1120/zapier-frontend.git
+[submodule "Zapier-backend"]
+	path = Zapier-backend
+	url = https://github.com/Rajat1120/Zapier-backend.git
